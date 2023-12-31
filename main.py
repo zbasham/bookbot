@@ -15,7 +15,8 @@ def get_num_words(text):
     return len(words)
 
 def count_letters(text)
-### Continue here
+    lower_text = text.lower()
+    
 
 
 
